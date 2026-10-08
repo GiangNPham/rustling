@@ -1,1 +1,2 @@
 # rustling
+Learn rust syntax
